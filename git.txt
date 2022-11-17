@@ -1,0 +1,15 @@
+  -- -----------
+   1 python3 aula1.py
+   2 git init
+   3 git add README.md
+   4 echo "# algoritmos" >> README.md
+   5 git init
+   6 git add README.md
+   7 git commit -m "first commit"
+   8 git config --global user.name "Andrielle Silverio"
+   9 git config --global user.email "andri.s.silverio@gmail.com"
+  10 git commit -m "first commit"
+  11 git branch -M main
+  12 git remote add origin https://github.com/Andrielle-silverio/algorithms.git
+  13  git push -u origem principal
+  14  git push -u origin main
