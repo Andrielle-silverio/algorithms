@@ -11,5 +11,4 @@
   10 git commit -m "first commit"
   11 git branch -M main
   12 git remote add origin https://github.com/Andrielle-silverio/algorithms.git
-  13  git push -u origem principal
-  14  git push -u origin main
+  13  git push -u origin main
